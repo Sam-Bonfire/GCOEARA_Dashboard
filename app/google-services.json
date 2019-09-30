@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37278388371",
+    "firebase_url": "https://gcoeara-dashboard.firebaseio.com",
+    "project_id": "gcoeara-dashboard",
+    "storage_bucket": "gcoeara-dashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37278388371:android:474a3ec2dd4e9195d5fd66",
+        "android_client_info": {
+          "package_name": "com.houseofivy.gcoearadashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37278388371-c93pbl9cnpj8i1t0bvl7sq81v7vf6uvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.houseofivy.gcoearadashboard",
+            "certificate_hash": "52e1e5f1c6853a88afe56b1ad7c57c85c90ecf5f"
+          }
+        },
+        {
+          "client_id": "37278388371-0n3131dk6tfrjviq00h5hech7s07gv3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdyEgAbxbZHgTzxZ0UcV8lkG57CTGhPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37278388371-0n3131dk6tfrjviq00h5hech7s07gv3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
