@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "37278388371-dm00nbnvp85tpbj2n610g91uqgc8q9v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.houseofivy.gcoearadashboard",
+            "certificate_hash": "61092e26d5370a55a1e3bcc18322a508d6db15d7"
+          }
+        },
+        {
           "client_id": "37278388371-c93pbl9cnpj8i1t0bvl7sq81v7vf6uvv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
